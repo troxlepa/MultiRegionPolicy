@@ -11,7 +11,7 @@
     <strong>Pascal Troxler</strong>
   </p>
  <p align="center">
-    [<a href="MultiRegionPolicy_slides.pdf">Report</a> · <a href="MultiRegionPolicy_slides.pdf">Slides</a> · <a href="https://polybox.ethz.ch/index.php/s/HHGcSP2knsZ4jA5">Data</a>]
+    [<a href="MultiRegionPolicy.pdf">Report</a> · <a href="MultiRegionPolicy_slides.pdf">Slides</a> · <a href="https://polybox.ethz.ch/index.php/s/HHGcSP2knsZ4jA5">Data</a>]
 </a>
 </p>
  <p align="center">
@@ -21,9 +21,9 @@
 ![overview](./docs/overview.png)
 
 ## Introduction
-In this work, we present a game-theoretic agent-based model to investigate how differing climate
+An agent-based model to investigate how differing climate
 policies amongst countries influence firm-level microeconomic
-behaviour. 
+behaviour.
 ## Usage
 
 ### Colab (recommended)
