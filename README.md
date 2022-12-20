@@ -1,17 +1,17 @@
-# Modelling carbon tax policies� impacts across multiple economic regions
+﻿# Modelling carbon tax policies’ impacts across multiple economic regions
  <p align="center">
     <strong>Wen Yi Chan</strong>
-    �
+    ·
     <strong>Joel Huber</strong>
-    �
+    ·
     <strong>Gaspard Krief</strong>
-    �
+    ·
     <strong>Tianyi Liu</strong>
-    �
+    ·
     <strong>Pascal Troxler</strong>
   </p>
  <p align="center">
-    [<a href="MultiRegionPolicy_slides.pdf">Report</a> � <a href="MultiRegionPolicy_slides.pdf">Slides</a>]
+    [<a href="MultiRegionPolicy_slides.pdf">Report</a> · <a href="MultiRegionPolicy_slides.pdf">Slides</a> · <a href="https://polybox.ethz.ch/index.php/s/HHGcSP2knsZ4jA5">Data</a>]
 </a>
 </p>
  <p align="center">
@@ -46,4 +46,12 @@ Run all code directly from our Google Colab notebook. The multi-run experiments 
 
 ## Precomputed Data
 
-Precomputed data for the multi-run experiments and sensitivity analysis is available on request.
+If you do not want to re-run the experiments, we provide the precomputed multi-run and sensitivity analysis files <a target="_blank" href="https://polybox.ethz.ch/index.php/s/HHGcSP2knsZ4jA5">here</a>. Unzip the folder and place its subfolders at the project root defined in the topmost cell.
+
+```
+├── MultiRegionPolicy
+│   ├── data
+│   ├── viz
+```
+
+Furthermore, it is necessary to define ```DATA_PATH = f"{DATA_BASE_PATH}{0}/"``` in the section "Visualizations" in order to use the precomputed data.
