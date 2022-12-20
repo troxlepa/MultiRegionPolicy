@@ -1,17 +1,32 @@
 # Modelling the impact of carbon tax policies across multiple economic regions
-
-Wen Yi Chan, Joel Huber, Gaspard Krief, Tianyi Liu, Pascal Troxler<br />
-ETH Zurich
+ <p align="center">
+    <strong>Wen Yi Chan</strong>
+    ·
+    <strong>Joel Huber</strong>
+    ·
+    <strong>Gaspard Krief</strong>
+    ·
+    <strong>Tianyi Liu</strong>
+    ·
+    <strong>Pascal Troxler</strong>
+  </p>
+ <p align="center">
+    ETH Zurich, 2022
+</p>
 
 ![overview](./docs/overview.png)
 
 ## Introduction
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.Sed consequat gravida magna aliquam tempus. Donec hendrerit blandit odio, id mollis eros tristique eget. Sed tristique, turpis id semper suscipit, sapien ante pulvinar eros, eget eleifend nisi nibh aliquet ligula. Cras dapibus sem sem, ac vehicula diam porttitor nec. Quisque id dolor at sem feugiat interdum. Sed a varius elit. Mauris vel ante varius, eleifend mi at, tincidunt nunc. Praesent tellus leo, cursus in tempus ac, facilisis a magna.
-
+In this work, we present a game-theoretic agent-based model to investigate how differing climate
+policies amongst countries influence firm-level microeconomic
+behaviour. 
 ## Usage
 
 ### Colab (recommended)
 Run all code directly from our Google Colab notebook. The multi-run experiments and sensitivity analysis need access to your Google Drive in order to store intermediate results.
+<a target="_blank" href="https://colab.research.google.com/github/troxlepa/MultiRegionPolicy/blob/main/MultiRegionPolicy.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ### Local Installation
 1. Requirements (will be installed in the notebook)
