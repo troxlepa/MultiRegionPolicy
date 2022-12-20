@@ -11,6 +11,10 @@
     <strong>Pascal Troxler</strong>
   </p>
  <p align="center">
+    [<a href="MultiRegionPolicy_slides.pdf">Report</a> · <a href="MultiRegionPolicy_slides.pdf">Slides</a>]
+</a>
+</p>
+ <p align="center">
     ETH Zurich, 2022
 </p>
 
