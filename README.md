@@ -36,5 +36,6 @@ Run all code directly from our Google Colab notebook. The multi-run experiments 
 - ipywidgets
 - tqdm
 - SAlib
+- matplotlib==3.1.3
 
 2. Follow instruction in the first cell to set up necessary configurations.
