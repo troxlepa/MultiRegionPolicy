@@ -54,4 +54,4 @@ If you do not want to re-run the experiments, we provide the precomputed multi-r
 │   ├── viz
 ```
 
-Furthermore, it is necessary to define ```DATA_PATH = f"{DATA_BASE_PATH}{0}/"``` in the section "Visualizations" in order to use the precomputed data.
+Furthermore, set the variable ```USE_PRECOMP_DATA = True``` in the first cell of the notebook.
