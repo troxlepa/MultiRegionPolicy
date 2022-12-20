@@ -39,3 +39,7 @@ Run all code directly from our Google Colab notebook. The multi-run experiments 
 - matplotlib==3.1.3
 
 2. Follow instruction in the first cell to set up necessary configurations.
+
+## Precomputed Data
+
+Precomputed data for the multi-run experiments and sensitivity analysis is available on request.
