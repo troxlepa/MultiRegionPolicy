@@ -1,4 +1,4 @@
-# Modelling the impact of carbon tax policies across multiple economic regions
+# Modelling carbon tax policies’ impacts across multiple economic regions
  <p align="center">
     <strong>Wen Yi Chan</strong>
     ·
